@@ -1,0 +1,4 @@
+confluent-kafka
+cassandra-driver
+pymongo
+check_mongodb
